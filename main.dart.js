@@ -111288,7 +111288,7 @@ s=3
 return A.r(new A.aO(m,new A.aN(A.aR(16).a)).da("RIXCLOCK","ServerVersion"),$async$Bj)
 case 3:o=b
 if(o==null){s=1
-break}if(o!=="v1.2.0 alpha"){if(J.k(p.z)==="09953450732"){s=1
+break}if(o!=="v1.3.0 alpha"){if(J.k(p.z)==="09953450732"){s=1
 break}m=p.e
 m.a="New Version Available"
 m.b="A new version of the app is now available. Please refresh browser or install latest app version."
@@ -111298,7 +111298,7 @@ n=p.c
 if(n==null){s=1
 break}m.aw(n,new A.aoB(p))}case 1:return A.y(q,r)}})
 return A.z($async$Bj,r)},
-I(a){var s,r,q,p,o,n,m=this,l=null,k="Loading...",j="assets/right_arrow.png",i=t.p,h=A.jo(l,B.j,new A.cJ(l,l,l,l,l,B.n,l,l,l),A.b7(A.a([A.aG(A.H("HOME",l,l,l,B.ba,l,l,l),1),A.H("v1.2.0 alpha",l,l,l,B.cO,l,l,l)],i),B.m,B.i,B.a1,l)),g=A.ez("assets/rix_clocking_logo.png",B.DT,80,80),f=m.Q
+I(a){var s,r,q,p,o,n,m=this,l=null,k="Loading...",j="assets/right_arrow.png",i=t.p,h=A.jo(l,B.j,new A.cJ(l,l,l,l,l,B.n,l,l,l),A.b7(A.a([A.aG(A.H("HOME",l,l,l,B.ba,l,l,l),1),A.H("v1.3.0 alpha",l,l,l,B.cO,l,l,l)],i),B.m,B.i,B.a1,l)),g=A.ez("assets/rix_clocking_logo.png",B.DT,80,80),f=m.Q
 if(f==null)f=k
 f=A.H(f,1,B.a0,l,A.a8(l,l,B.n,l,l,l,l,l,l,l,l,16,l,l,B.z,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)
 s=m.as
@@ -112520,7 +112520,7 @@ q=A.co(!1,f,A.r1(!0,new A.et(4,B.bs,B.dj),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i
 p=A.H("Directly enter the sticker code to calculate and record the time.",i,i,i,A.a8(i,i,i,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
 o=A.a7(50)
 o=A.c0(A.aX(!1,A.a7(50),!0,new A.t(new A.u(9,9,9,9),new A.ag(200,i,A.H("Time-In",i,i,i,A.a8(i,i,B.n,i,i,i,i,i,i,i,i,18,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.P,i,i),i),i),i,!0,i,i,i,i,i,i,i,i,i,i,i,new A.aou(h,f,b,j.c),i,i,i,i),new A.b_(B.j,i,i,o,i,i,B.w),i)
-f=A.H("v1.2.0 alpha",i,i,i,A.a8(i,i,i,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
+f=A.H("v1.3.0 alpha",i,i,i,A.a8(i,i,i,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
 n=j.d
 m=A.a7(10)
 l=A.H(n,i,i,i,A.a8(i,i,i,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
@@ -115177,7 +115177,7 @@ break
 case 1:return A.y(q,r)}})
 return A.z($async$Fh,r)},
 I(a){var s=null
-return A.ie(s,A.cX(A.aM(A.a([A.ez("assets/rix_clocking_logo.png",s,100,100),B.ab,A.H("RIX CLOCK GEN 2",s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,25,s,s,B.z,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.ab,A.H(u.n,s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.au,A.H("v1.2.0 alpha",s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,11,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.ab,B.XY],t.p),B.m,B.bX,B.p),s,s),s,s,s,s)}}
+return A.ie(s,A.cX(A.aM(A.a([A.ez("assets/rix_clocking_logo.png",s,100,100),B.ab,A.H("RIX CLOCK GEN 2",s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,25,s,s,B.z,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.ab,A.H(u.n,s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.au,A.H("v1.3.0 alpha",s,s,s,A.a8(s,s,s,s,s,s,s,s,s,s,s,11,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),B.ab,B.XY],t.p),B.m,B.bX,B.p),s,s),s,s,s,s)}}
 A.aMy.prototype={
 $1(a){this.a.xc()},
 $S:2}
